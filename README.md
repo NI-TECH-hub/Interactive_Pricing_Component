@@ -1,3 +1,17 @@
+# Interactive pricing Component Build Using ReactJs
+
+![desktop-preview](https://user-images.githubusercontent.com/76203883/159270150-0689cdca-ecb0-4896-b70d-db7ec11a6513.jpg)
+
+# Dark mode
+
+![image](https://user-images.githubusercontent.com/76203883/159270424-3e08209f-1dad-43e9-bce9-3fceb2bb1805.png)
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
